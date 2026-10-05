@@ -1,0 +1,8 @@
+nhanes_cache/
+results/
+*.rds
+*.xpt
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
